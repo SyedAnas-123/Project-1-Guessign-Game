@@ -1,0 +1,16 @@
+{
+  "name": "project-1-number-guessing-game",
+  "version": "1.0.0",
+  "description": "number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SYED ANAS",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.2"
+  }
+}
